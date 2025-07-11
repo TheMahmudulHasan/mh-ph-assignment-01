@@ -30,3 +30,11 @@ nav{
 nav ul li{
     list-style: none;
 }
+.banner{
+    align-items: center;
+    padding-left: 50px;
+}
+.header{
+    background-image: url('./B12A01-landing-launchpad/Assets/Hero-bg.png');
+    background-repeat: no-repeat;
+}
